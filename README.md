@@ -124,9 +124,13 @@ This analysis lays a strong foundation for further work including promotion ROI 
 
 ---
 
+
+
 ## 👤 Author
 
 **Priyanshu**
 - 📧 Connect on [LinkedIn](linkedin.com/in/priyanshu-bharti-a73a13318)
 - 💻 More projects on [GitHub](https://github.com/priyanshu70-prog)
 
+
+*This project was created as part of a data analytics portfolio to demonstrate EDA skills using real-world retail data.*
